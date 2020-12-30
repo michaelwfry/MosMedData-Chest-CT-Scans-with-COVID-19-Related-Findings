@@ -50,7 +50,7 @@ COVID19_1110
 computed tomography, CT, pulmonary, viral, infection, lungs, chest, COVID-19
 
 ### Language
-English, Russian
+English
 
 ### Funding Sources
 Internal funding
