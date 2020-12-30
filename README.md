@@ -34,8 +34,6 @@ You <b>must not</b>:
 </ul>
 </div><br />
 
-![cc-by-nc-nd](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cc_by-nc-nd_euro_icon.svg/1200px-Cc_by-nc-nd_euro_icon.svg.png =120x42)
-
 ## General Information
 ### Dataset Title
 MosMedData: Chest CT Scans with COVID-19 Related Findings 
@@ -122,7 +120,7 @@ Internal funding
     
 ```
 
-* `README_EN.md` and `README_RU.md` contain general information about the dataset; they have been saved in `Markdown` format in English and Russian languages, respectively. `README_EN.pdf` and `README_RU.pdf` contain the same information but have been saved in `PDF` format for the ease of convenience.
+* `README.md` contain general information about the datase.
 * `LICENSE` file contains full description of Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) License
 * `dataset_registry.xlsx` is a spreadsheet with full list of studies included in the dataset as well as relative paths to a study file and to a binary mask, if present.
 * `studies` directory contains directories named as `CT-0`, `CT-1`, `CT-2`, `CT-3`, and `CT-4` (for more information see below). Each directory contains studies in `NIfTI` format, that have been saved in `Gzip` archive. Each study has a unique name like `study_BBBB.nii.gz`, where `BBBB` is a sequential number of the study in the whole dataset. 
